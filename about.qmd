@@ -1,0 +1,16 @@
+---
+title: "Raiane Rosseti"
+about:
+  id: hero-heading
+  template: jolla
+  image: Rai.jpeg
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: bi bi-envelope
+      text: Email
+      href: mailto:raianerossetii@gmail.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
